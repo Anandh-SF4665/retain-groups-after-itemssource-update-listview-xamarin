@@ -1,2 +1,1 @@
-# retain-groups-after-itemssource-update-listview-xamarin
-How to retain groups after updating the ItemsSource in Xamarin.Forms ListView using MVVM
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12466/how-to-retain-groups-after-updating-the-itemssource-in-xamarin-forms-listview-using-mvvm)**
