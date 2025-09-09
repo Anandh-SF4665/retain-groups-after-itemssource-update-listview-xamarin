@@ -17,7 +17,7 @@
     </syncfusion:SfListView>
 </StackLayout>
 
-C#:
+ViewModel.cs:
 
 public Command RefreshCommand { get; set; }
 
